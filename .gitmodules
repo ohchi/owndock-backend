@@ -1,0 +1,3 @@
+[submodule "storage/laradock"]
+	path = storage/laradock
+	url = https://github.com/laradock/laradock.git
